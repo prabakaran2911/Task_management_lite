@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69540104764",
+    "project_id": "emailauth2-933ef",
+    "storage_bucket": "emailauth2-933ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69540104764:android:3e26a6fdf05ff9ea48d139",
+        "android_client_info": {
+          "package_name": "com.example.task_mngmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69540104764-v7khk02h8qosrdnkfkm3m3h7rrpj02d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeblAwR3Ff_2fXHSr8gon5rGCoeSDQ4mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69540104764-v7khk02h8qosrdnkfkm3m3h7rrpj02d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
